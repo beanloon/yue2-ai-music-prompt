@@ -1,0 +1,13 @@
+{
+  "id": "passion",
+  "title": "Passion",
+  "language_label": "English",
+  "genre": "English rock",
+  "style": "Energetic modern rock with emotional vocals, big guitars, cinematic drums, and a powerful chorus. Anthemic and passionate mood with dynamic build and heavy rhythm.",
+  "lyrics": null,
+  "lyrics_note": "Hugging Face 模型卡的 examples.json 只公布了风格和 seed，没有公布完整歌词。",
+  "cot": "full",
+  "seed": 831054,
+  "source": "https://huggingface.co/m-a-p/YuE2-3B",
+  "listen": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/audio/passion.mp3"
+}

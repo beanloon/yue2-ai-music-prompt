@@ -1,0 +1,14 @@
+{
+  "id": "happy-birthday-heavy-metal",
+  "title": "Happy Birthday · Heavy-Metal Scream Version",
+  "title_zh": "",
+  "genre": "Heavy Metal · 160 BPM",
+  "style": "heavy metal, harsh screamed vocals, distorted guitars, double-kick drums, 160 BPM\n",
+  "edit_type": "Tempo change: 97 → 160 BPM · Style rearrangement",
+  "adapted_from": "Adapted from Happy Birthday to You",
+  "source_url": "https://www.youtube.com/watch?v=c-v-7JRisLA",
+  "source": "https://map-yue2.github.io/",
+  "lyrics": null,
+  "lyrics_note": "未收录歌词。风格提示词可直接套用；歌词是传统生日歌，请自行填写。",
+  "listen": "https://map-yue2.github.io/assets/covers/happy-birthday-heavy-metal/happy-birthday-heavy-metal.mp3"
+}
